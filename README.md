@@ -1,2 +1,2 @@
-# online-tour-and-travel-system
-online tour and travel management system by PHP and MySQL
+# online-book-store
+online book store by PHP and MySQL
