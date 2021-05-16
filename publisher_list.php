@@ -18,7 +18,7 @@
 	require "./template/header.php";
 ?>
 	<p class="lead">List of Publisher</p>
-	<ul style="font-size:24px;">
+	<ul style="font-size:25px;">
 	<?php 
 		while($row = mysqli_fetch_assoc($result)){
 			$count = 0; 
