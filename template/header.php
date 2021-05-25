@@ -23,7 +23,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">CODY Bookstore</a>
+          <a class="navbar-brand" href="index.php" style="color:white;">CODY Bookstore</a>
         </div>
 
         <div id="navbar" class="navbar-collapse collapse">

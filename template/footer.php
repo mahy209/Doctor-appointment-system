@@ -2,7 +2,7 @@
 
       	<footer>
         	<div class="text-muted pull-right">
-          		<a href="admin.php">Admin Login</a> 2021
+          		<a href="admin.php" class="btn btn-primary btn-md">Admin Login</a> 2021
         	</div>
       	</footer>
     </div> 
